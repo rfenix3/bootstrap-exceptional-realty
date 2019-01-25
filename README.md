@@ -1,5 +1,7 @@
 # Bootstrap HTML Code Along Repository
 
+Exceptional Reality Website (Bootstrapped Version)
+
 ## Overview
 
 This lesson is intended to be used in the Bootstrap section of this course.
